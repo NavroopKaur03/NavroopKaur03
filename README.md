@@ -32,7 +32,7 @@ Working on an Environmental Impacts project that involves analyzing NPRI data to
 
 ### 📫 Let's Connect!
 
-- GitHub: [github.com/](https://github.com/yourusername)NavroopKaur03
+- GitHub: https://github.com/NavroopKaur03
 - LinkedIn: [https://www.linkedin.com/in/navroop-kaur-kohar-5a936b2b2/](https://www.linkedin.com/in/navroop-kaur-kohar-5a936b2b2)
 - Email: navroopkohar2005\@gmail.com
 
